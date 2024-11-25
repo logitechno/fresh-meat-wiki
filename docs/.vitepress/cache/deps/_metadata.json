@@ -1,49 +1,49 @@
 {
-  "hash": "75e942ea",
-  "configHash": "a027393e",
-  "lockfileHash": "0ca3e811",
-  "browserHash": "f434616e",
+  "hash": "4a33a34f",
+  "configHash": "8a2344f1",
+  "lockfileHash": "16e6e087",
+  "browserHash": "39c11581",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "930e7cf4",
+      "fileHash": "5d0f8f11",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "c7779541",
+      "fileHash": "8e6ef4c6",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "e8d8f95b",
+      "fileHash": "337b1f4a",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "e4114eba",
+      "fileHash": "7fbd7ba7",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "681cc73d",
+      "fileHash": "0070283c",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "d926acd4",
+      "fileHash": "40a65876",
       "needsInterop": false
     },
-    "@justinribeiro/lite-youtube": {
-      "src": "../../../../node_modules/@justinribeiro/lite-youtube/lite-youtube.js",
-      "file": "@justinribeiro_lite-youtube.js",
-      "fileHash": "81a35355",
+    "vitepress-plugin-comment-with-giscus": {
+      "src": "../../../../node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
+      "file": "vitepress-plugin-comment-with-giscus.js",
+      "fileHash": "e5d7739a",
       "needsInterop": false
     }
   },
@@ -53,6 +53,9 @@
     },
     "chunk-LW4I4DCF": {
       "file": "chunk-LW4I4DCF.js"
+    },
+    "giscus-aTimukGI-KUYRML7I": {
+      "file": "giscus-aTimukGI-KUYRML7I.js"
     }
   }
 }

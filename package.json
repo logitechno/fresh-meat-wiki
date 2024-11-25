@@ -16,7 +16,7 @@
     "vitepress": "^1.5.0"
   },
   "dependencies": {
-    "@justinribeiro/lite-youtube": "^1.6.0",
-    "vite": "^6.0.0-beta.10"
+    "vite": "^6.0.0-beta.10",
+    "vitepress-plugin-comment-with-giscus": "^1.1.15"
   }
 }
