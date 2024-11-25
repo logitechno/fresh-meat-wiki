@@ -6,6 +6,7 @@ export default defineConfig({
   cleanUrls: true,
   lang: 'ru-RU',
   title: "Fresh Meat Wiki",
+  description: "Занимаемся разработкой модпаков для Minecraft в СНГ",
   themeConfig: {
     search: {
       provider: 'local',
