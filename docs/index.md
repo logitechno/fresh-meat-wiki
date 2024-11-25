@@ -24,7 +24,7 @@ features:
     linkText: Подробнее
   - icon: 🌳
     title: The Last Generation
-    details: 'Скоро...'
+    details: 'Хардкорная ZombieSurvival сборка в жанре Пост-Апокалипсис'
   - icon: 🌍
     title: Extented Craft
     details: 'Скоро...'
