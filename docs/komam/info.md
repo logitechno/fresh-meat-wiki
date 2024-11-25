@@ -7,9 +7,9 @@ outline: deep
 Вы появляетесь в мире средневековья, ваше имя и происхождение таится глубоко в вашем сознании. Вам предстоит отправиться в опасное путешествие в просторы павших бастионов некогда великого Царства Меча и Магии, чтобы найти ответы на все вопросы и, в конце концов, вспоминить себя и своё прошлое.
 :::
 
-<iframe width="688" height="387"
-src="https://www.youtube.com/embed/T75xiB0sIhM" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Погрузитесь в захватывающий мир "Kingdom of Might and Magic", где ваши мечты о величественных королевствах и эпических сражениях обретают жизнь. Эта сборка — это не просто набор модов, а тщательно продуманный проект, объединяющий элементы стратегии, ролевых игр и захватывающего приключения в одном великолепном пакете.
 
