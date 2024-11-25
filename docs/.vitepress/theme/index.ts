@@ -1,3 +1,4 @@
+import '@justinribeiro/lite-youtube';
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
