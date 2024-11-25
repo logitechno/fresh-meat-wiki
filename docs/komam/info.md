@@ -8,7 +8,7 @@ outline: deep
 :::
 
 <div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/T75xiB0sIhM" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Погрузитесь в захватывающий мир "Kingdom of Might and Magic", где ваши мечты о величественных королевствах и эпических сражениях обретают жизнь. Эта сборка — это не просто набор модов, а тщательно продуманный проект, объединяющий элементы стратегии, ролевых игр и захватывающего приключения в одном великолепном пакете.
