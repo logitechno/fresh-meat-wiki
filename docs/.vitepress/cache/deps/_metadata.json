@@ -1,49 +1,43 @@
 {
-  "hash": "4a33a34f",
+  "hash": "05b913e7",
   "configHash": "8a2344f1",
-  "lockfileHash": "16e6e087",
-  "browserHash": "39c11581",
+  "lockfileHash": "7f40bb6f",
+  "browserHash": "3ee4ba74",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "5d0f8f11",
+      "fileHash": "a2523a8f",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "8e6ef4c6",
+      "fileHash": "b35370ff",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "337b1f4a",
+      "fileHash": "0c1e03d1",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "7fbd7ba7",
+      "fileHash": "f6f622b4",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "0070283c",
+      "fileHash": "45ca478b",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "40a65876",
-      "needsInterop": false
-    },
-    "vitepress-plugin-comment-with-giscus": {
-      "src": "../../../../node_modules/vitepress-plugin-comment-with-giscus/lib/giscus.js",
-      "file": "vitepress-plugin-comment-with-giscus.js",
-      "fileHash": "e5d7739a",
+      "fileHash": "fd32fb44",
       "needsInterop": false
     }
   },
@@ -53,9 +47,6 @@
     },
     "chunk-LW4I4DCF": {
       "file": "chunk-LW4I4DCF.js"
-    },
-    "giscus-aTimukGI-KUYRML7I": {
-      "file": "giscus-aTimukGI-KUYRML7I.js"
     }
   }
 }
