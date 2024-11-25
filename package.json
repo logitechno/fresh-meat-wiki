@@ -1,0 +1,22 @@
+{
+  "name": "fresh-meat-wiki",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "typescript": "~5.6.2",
+    "vite": "^5.4.10",
+    "vitepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@justinribeiro/lite-youtube": "^1.6.0"
+  }
+}
