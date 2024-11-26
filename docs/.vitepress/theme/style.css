@@ -137,8 +137,6 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
-
-
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /* Соотношение 16:9 */

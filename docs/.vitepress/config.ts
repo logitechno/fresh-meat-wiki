@@ -9,43 +9,13 @@ export default defineConfig({
   title: "Fresh Meat Wiki",
   description: "Занимаемся разработкой модпаков для Minecraft в СНГ",
   themeConfig: {
-    search: {
-      provider: 'local',
-      options: {
-        locales: {
-          root: {
-            translations: {
-              button: {
-                buttonText: 'Поиск',
-                buttonAriaLabel: 'Поиск'
-              },
-              modal: {
-                displayDetails: 'Отобразить подробный список',
-                resetButtonTitle: 'Сбросить поиск',
-                backButtonTitle: 'Закрыть поиск',
-                noResultsText: 'Нет результатов по запросу',
-                footer: {
-                  selectText: 'выбрать',
-                  selectKeyAriaLabel: 'выбрать',
-                  navigateText: 'перейти',
-                  navigateUpKeyAriaLabel: 'стрелка вверх',
-                  navigateDownKeyAriaLabel: 'стрелка вниз',
-                  closeText: 'закрыть',
-                  closeKeyAriaLabel: 'esc'
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     logo: '/logo.png',
-
     sidebar: [
       {
         text: 'Komam',
         items: [
-          { text: 'О сборке', link: '/komam/info' }
+          { text: 'О сборке', link: '/komam/info' },
+          { text: 'Установка', link: '/komam/install' }
         ]
       }
     ],
@@ -56,6 +26,59 @@ export default defineConfig({
       { icon: 'telegram', link: 'https://t.me/fshmeat' },
       { icon: 'discord', link: 'https://discord.gg/EyZV66rNGF' },
       { icon: 'youtube', link: 'https://www.youtube.com/@freshmeatbuisness' }
-    ]
+    ],
+
+    notFound: {
+      code: "Ошибка 404",
+      title: "Страница не найдена",
+      quote: "Возможно, она была удалена, либо переименована",
+      linkText: "Вернуться на главную",
+    },
+
+    search: {
+      provider: "local",
+      options: {
+        translations: {
+          button: {
+            buttonText: "Поиск",
+            buttonAriaLabel: "Поиск страницы",
+          },
+          modal: {
+            noResultsText: "Результатов не найдено по запросу",
+            resetButtonTitle: "Очистить",
+            footer: {
+              selectText: "выбрать",
+              navigateText: "переключение между результатами",
+              closeText: "закрыть",
+            },
+          },
+        },
+      },
+    },
+
+    sidebarMenuLabel: "Меню",
+    darkModeSwitchLabel: "Режим",
+    returnToTopLabel: "Наверх",
+    docFooter: {
+      prev: "Предыдущая страница",
+      next: "Следующая страница",
+    },
+    outline: {
+      label: "Содержание",
+      level: [2, 3],
+    },
+
+    editLink: {
+      pattern: "https://github.com/logitechno/fresh-meat-wiki/edit/main/docs/:path",
+      text: "Править",
+    },
+
+    lastUpdated: {
+      text: "Обновлено",
+      formatOptions: {
+        dateStyle: "medium",
+        timeStyle: "medium",
+      },
+    },
   }
 })
