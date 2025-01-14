@@ -16,6 +16,12 @@ export default defineConfig({
           { text: 'О сборке', link: '/komam/info' },
           { text: 'Установка', link: '/komam/install' }
         ]
+      },
+      {
+        text: 'Extented Craft',
+        items: [
+          { text: 'О сборке', link: '/extented_craft/info' }
+        ]
       }
     ],
 

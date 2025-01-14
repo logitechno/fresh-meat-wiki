@@ -1,1 +1,1 @@
-## Fresh Meat Wiki
+## [Fresh Meat Wiki](https://wiki.fshmeat.top)

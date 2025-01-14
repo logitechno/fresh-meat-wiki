@@ -22,11 +22,13 @@ features:
     details: 'Интересная средневековая сборка с элементами RPG'
     link: /komam/info
     linkText: Подробнее
+  - icon: 🌍
+    title: Extented Craft
+    details: 'Модпак на версии 1.21.1 в стилистике Vanilla+'
+    link: /extented_craft/info
+    linkText: Подробнее
   - icon: 🌳
     title: The Last Generation
     details: 'Хардкорная ZombieSurvival сборка в жанре Пост-Апокалипсис'
-  - icon: 🌍
-    title: Extented Craft
-    details: 'Скоро...'
 ---
 
