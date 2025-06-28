@@ -30,7 +30,8 @@ export default defineConfig({
       { icon: 'boosty', link: 'https://boosty.to/freshmeat' },
       { icon: 'telegram', link: 'https://t.me/fshmeat' },
       { icon: 'discord', link: 'https://discord.gg/EyZV66rNGF' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@freshmeatbuisness' }
+      { icon: 'youtube', link: 'https://www.youtube.com/@freshmeatbuisness' },
+      { icon: 'tiktok', link: 'https://www.tiktok.com/@freshmeat56' }
     ],
 
     notFound: {

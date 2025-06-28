@@ -19,7 +19,7 @@ hero:
 features:
   - icon: ⚔️
     title: Kingdom Of Might And Magic
-    details: 'Интересная средневековая сборка с элементами RPG'
+    details: 'Dark Fantasy сборка на версию 1.20.1 Forge'
     link: /komam/info
     linkText: Подробнее
   - icon: 🌍
